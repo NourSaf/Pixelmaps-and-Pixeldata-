@@ -12,3 +12,6 @@ Student: Nour Al Safadi <br>
 University of the Arts in berlin (Udk)<br>
 Informationsgestaltung-Klasse<br>
 Sommer Semester 20223<br>
+
+Link to the projects: <br>
+https://noursaf.github.io/Traff-22/
