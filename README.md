@@ -4,7 +4,7 @@ The core idea of the course is to extract information from pixels
 and control them using p5.js libraries to achive a certain goal.
 
 This is the documentation of my project 
-Course name: Pixelmaps and Pixeldata, Methoden Labor 
+Course name: Pixelmaps and Pixeldata, Methoden Labor <br>
 Class: Information-design 
 Supervisor: Robin Coenen 
 Student: Nour Al Safadi 
