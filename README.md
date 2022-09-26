@@ -11,9 +11,14 @@ Student: Nour Al Safadi <br>
 
 University of the Arts in berlin (Udk)<br>
 Informationsgestaltung-Klasse<br>
-Sommer Semester 20223<br>
+Sommer Semester 2022 <br>
 
-Here you can find the codes used during the course <br>
+In this repositories you can find the codes used during the course <br>
+applyed on the images. <br>
 
-Link to the projects website: <br>
-https://noursaf.github.io/Traff-22/
+Here the link to the projects website: <br>
+https://noursaf.github.io/Traff-22/ <br>
+
+Here the link to the website documentation: <br>
+https://github.com/NourSaf/Traff-22
+
