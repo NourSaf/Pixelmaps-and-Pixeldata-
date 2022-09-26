@@ -1,14 +1,14 @@
 # Pixelmaps and Pixeldata
 
-The core idea of the course is to extract information from pixels 
-and control them using p5.js libraries to achive a certain goal.
+The core idea of the course is to extract information from pixels <br>
+and control them using p5.js libraries to achive a certain goal.<br>
 
-This is the documentation of my project 
+This is the documentation of my project <br>
 Course name: Pixelmaps and Pixeldata, Methoden Labor <br>
-Class: Information-design 
-Supervisor: Robin Coenen 
-Student: Nour Al Safadi 
+Class: Information-design <br>
+Supervisor: Robin Coenen <br>
+Student: Nour Al Safadi <br>
 
-University of the Arts in berlin (Udk)
-Informationsgestaltung-Klasse
-Sommer Semester 20223
+University of the Arts in berlin (Udk)<br>
+Informationsgestaltung-Klasse<br>
+Sommer Semester 20223<br>
