@@ -13,5 +13,5 @@ University of the Arts in berlin (Udk)<br>
 Informationsgestaltung-Klasse<br>
 Sommer Semester 20223<br>
 
-Link to the projects: <br>
+Link to the projects website: <br>
 https://noursaf.github.io/Traff-22/
