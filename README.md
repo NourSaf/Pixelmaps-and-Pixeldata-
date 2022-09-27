@@ -13,7 +13,7 @@ University of the Arts in berlin (Udk)<br>
 Informationsgestaltung-Klasse<br>
 Sommer Semester 2022 <br>
 
-In this repositories you can find the codes used during the course <br>
+In this repository (inside "code" folder" you can find the codes used during the course <br>
 applyed on the images. <br>
 
 Here the link to the projects website: <br>
