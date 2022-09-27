@@ -7,7 +7,7 @@ This is the documentation of my project <br>
 Course name: Pixelmaps and Pixeldata, Methoden Labor <br>
 Class: Information-design <br>
 Supervisor: Robin Coenen <br>
-Student: Nour Al Safadi <br>
+Nour Al Safadi 
 
 University of the Arts in berlin (Udk)<br>
 Informationsgestaltung-Klasse<br>
