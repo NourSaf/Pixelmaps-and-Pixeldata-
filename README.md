@@ -8,10 +8,11 @@ Course name: Pixelmaps and Pixeldata, Methoden Labor <br>
 Class: Information-design <br>
 Supervisor: Robin Coenen <br>
 
-Nour Al Safadi <br>
 University of the Arts in berlin (Udk)<br>
 Informationsgestaltung-Klasse<br>
 Sommer Semester 2022 <br>
+Nour Al Safadi <br>
+
 
 In this repository (inside "code" folder you can find <br>the codes used during the course 
 applyed on the images. <br>
